@@ -39,7 +39,7 @@ brew install SDL2_ttf
 # Project Demo
  [![The Maze](https://imgflip.com/gif/7cv3pm)](https://youtu.be/PWPqSSZgChU)
 # Authors
-- Ephrem Getachew(https://github.com/Ephrem2166)
+- Netsanet Amanuel (https://github.com/netsimj)
 
 
 
